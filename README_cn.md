@@ -1,6 +1,6 @@
 中文|[英文](README.md)
 
-# Faster-R-CNN检测网络应用<a name="ZH-CN_TOPIC_0185837719"></a>
+# yolov3检测网络应用<a name="ZH-CN_TOPIC_0185837719"></a>
 
 本Application支持运行在Atlas 200 DK或者AI加速云服务器上，实现了对faster-rcnn目标检测网络的推理功能。
 
@@ -17,7 +17,7 @@
 
 1.  获取源码包。
 
-    将[https://github.com/Ascend/sample-objectdetection](https://github.com/Ascend/sample-objectdetection)仓中的代码以Mind Studio安装用户下载至Mind Studio所在Ubuntu服务器的任意目录，例如代码存放路径为：_/home/ascend/sample-objectdetection_。
+    将代码以Mind Studio安装用户下载至Mind Studio所在Ubuntu服务器的任意目录，例如代码存放路径为：_/home/ascend/sample-objectdetection_。
 
 2.  <a name="zh-cn_topic_0182554604_li2074865610364"></a>获取此应用中所需要的原始网络模型。
 

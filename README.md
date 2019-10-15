@@ -17,7 +17,7 @@ Before running the application, obtain the source code package and configure the
 
 1.  Obtain the source code package.
 
-    Download all the code in the sample-objectdetection repository at  [https://github.com/Ascend/sample-objectdetection](https://github.com/Ascend/sample-objectdetection)  to any directory on Ubuntu Server where  Mind Studio  is located as the  Mind Studio  installation user, for example,  _/home/ascend/sample-objectdetection_.
+    Download all the code in the sample-objectdetection repository to any directory on Ubuntu Server where  Mind Studio  is located as the  Mind Studio  installation user, for example,  _/home/ascend/sample-objectdetection_.
 
 2.  <a name="en-us_topic_0182554604_li2074865610364"></a>Obtain the source network model required by the application.
 
